@@ -28,6 +28,9 @@ help (pull-requests!) with the following work items:
 
 * An Ansible playbook to automate all-the-things!
 
+* Documentation around running macOS on popular cloud providers (GCP, AWS). See
+  the `Is This Legal?` section and associated references.
+
 * Test `accel=hvf` flag on QEMU + macOS Mojave on MacBook Pro.
 
 * Document (share) how you use this project to build + test open-source
